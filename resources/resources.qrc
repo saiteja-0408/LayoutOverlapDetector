@@ -1,0 +1,26 @@
+<RCC>
+  <qresource prefix="/qml">
+    <file alias="MainView.qml">qml/MainView.qml</file>
+  </qresource>
+
+    <!-- <qresource prefix="/layouts">
+  <file alias="sample_layout.json">layouts/sample_layout.json</file>
+    <file alias="no_overlap.json">layouts/no_overlap.json</file>
+    <file alias="single_overlap.json">layouts/single_overlap.json</file>
+    <file alias="nested_overlap.json">layouts/nested_overlap.json</file>
+    <file alias="edge_touch.json">layouts/edge_touch.json</file>
+    <file alias="cluster.json">layouts/cluster.json</file>
+  </qresource>
+
+    <qresource prefix="/layouts">
+    <file>layouts/sample_layout.json</file>
+    <file>layouts/no_overlap.json</file>
+    <file>layouts/single_overlap.json</file>
+    <file>layouts/nested_overlap.json</file>
+    <file>layouts/edge_touch.json</file>
+    <file>layouts/cluster.json</file>
+  </qresource>  -->
+
+  
+  
+</RCC>
