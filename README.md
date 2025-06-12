@@ -1,12 +1,4 @@
-````markdown
-<p align="center">
-  <img src="docs/images/logo.png" alt="LayoutOverlapDetector" width="200"/>
-</p>
-
 # LayoutOverlapDetector
-
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](#build--run)  
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 **A Qt 6 / QML demo** showcasing a high-performance sweep-line overlap detection engine. Load rectangle layouts from JSON, detect overlaps in **O(n log n)** time on a background thread, and highlight them in real time—mimicking the core geometry check in Siemens Calibre DESIGNrev.
 
@@ -42,7 +34,6 @@
    - [Screenshots](#screenshots)  
    - [Prebuilt Binaries](#prebuilt-binaries)  
 10. [Contributing](#contributing)  
-11. [License](#license)  
 
 ---
 
@@ -235,10 +226,6 @@ ApplicationWindow {
 
 ### Screenshots
 
-1. Capture your app window as PNG.
-2. Place into `docs/images/` and commit.
-3. Embed in README:
-
    ```markdown
    ![No Overlap](docs/images/no_overlap.png)
    ![With Overlaps](docs/images/with_overlaps.png)
@@ -262,10 +249,3 @@ Bug reports, feature requests, and pull requests are welcome!
 Please open an issue or submit a PR.
 
 ---
-
-## License
-
-**MIT License** — see [LICENSE](LICENSE) for details.
-
-```
-```
