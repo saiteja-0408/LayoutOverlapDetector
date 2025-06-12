@@ -225,11 +225,11 @@ ApplicationWindow {
 ```
 
 ### Screenshots
+| No Overlap                | With Overlaps                 |
+|-----------------------|-----------------------|
+| ![No Overlap](docs/images/no_overlap.png) | ![With Overlaps](docs/images/with_overlaps.png) |
 
-   ```markdown
-   ![No Overlap](docs/images/no_overlap.png)
-   ![With Overlaps](docs/images/with_overlaps.png)
-   ```
+_Click an image to view full size._
 
 ### Prebuilt Binaries
 
